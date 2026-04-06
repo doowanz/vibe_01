@@ -192,7 +192,7 @@ const apiKey = process.env.OPENAI_API_KEY
 
 사전에 만든 샘서비스 시연
 
-<img width="1034" height="619" alt="image" src="https://github.com/user-attachments/assets/d2d606eb-93a4-4e0b-b152-dbd3130d7874" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/d2d606eb-93a4-4e0b-b152-dbd3130d7874" />
 
 
 ### 실습 순서
